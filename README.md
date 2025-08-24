@@ -1,5 +1,5 @@
 
-#<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=👋%20Hello%2C%20I'm%20Andry!&fontSize=20&fontAlign=70&desc=UI%2FUX%20Designer%20|%20Digital%20Experience%20Creator&descAlign=70&descAlignY=88&animation=twinkling"/>
 </div>
 
@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%7C+Digital+Experience+Creator;Crafting+Intuitive+%26+Beautiful+Interfaces;Building+Tomorrow's+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Crafting+Intuitive+%26+Beautiful+Interfaces;Building+Tomorrow's+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
